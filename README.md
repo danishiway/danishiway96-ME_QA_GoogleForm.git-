@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name - _Project Author (Change Me)_
 
 ## Project Name and Description:
@@ -22,3 +23,6 @@ Provide sample code or usage scenarios to showcase how the project works.
 ## Important Links:
 Details about useful external links
  
+=======
+# danishiway96-ME_QA_GoogleForm.git-
+>>>>>>> 0e4e5fad0bab4bd6e11cc4ab99a37ab7b90c9cf5
